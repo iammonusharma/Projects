@@ -1,5 +1,5 @@
 # Projects
-React Js Gatsby Project :
+React Js ECommerce Project :
 https://monusharmacart.netlify.app/
 
 React Js Tic Tac Toe Game:
